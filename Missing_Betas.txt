@@ -1,0 +1,1184 @@
+Unable to find working sequences for clonotypes: 
+>clonotype11_consensus_1: Could not find Primer Overlap that worked
+>clonotype21_consensus_1: Could not find Primer Overlap that worked
+>clonotype33_consensus_1: Could not find Primer Overlap that worked
+>clonotype37_consensus_1: Could not find Primer Overlap that worked
+>clonotype51_consensus_1: Could not find Primer Overlap that worked
+>clonotype81_consensus_1: Could not find Primer Overlap that worked
+>clonotype89_consensus_1: Could not find Primer Overlap that worked
+>clonotype94_consensus_1: Could not find Primer Overlap that worked
+>clonotype98_consensus_1: Could not find Primer Overlap that worked
+>clonotype119_consensus_1: Could not find Primer Overlap that worked
+>clonotype120_consensus_1: Could not find Primer Overlap that worked
+>clonotype145_consensus_1: Could not find Primer Overlap that worked
+>clonotype150_consensus_1: Could not find Primer Overlap that worked
+>clonotype162_consensus_1: Could not find Primer Overlap that worked
+>clonotype173_consensus_1: Could not find Primer Overlap that worked
+>clonotype183_consensus_1: Could not find Primer Overlap that worked
+>clonotype185_consensus_1: Could not find Primer Overlap that worked
+>clonotype190_consensus_1: Could not find Primer Overlap that worked
+>clonotype196_consensus_1: Could not find Primer Overlap that worked
+>clonotype198_consensus_1: Could not find Primer Overlap that worked
+>clonotype206_consensus_1: Could not find Primer Overlap that worked
+>clonotype216_consensus_1: Could not find Primer Overlap that worked
+>clonotype239_consensus_1: Could not find Primer Overlap that worked
+>clonotype254_consensus_1: Could not find Primer Overlap that worked
+>clonotype274_consensus_1: Could not find Primer Overlap that worked
+>clonotype279_consensus_1: Could not find Primer Overlap that worked
+>clonotype281_consensus_1: Could not find Primer Overlap that worked
+>clonotype282_consensus_2: Could not find Primer Overlap that worked
+>clonotype283_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype286_consensus_1: Could not find Primer Overlap that worked
+>clonotype306_consensus_1: Could not find Primer Overlap that worked
+>clonotype309_consensus_1: Could not find Primer Overlap that worked
+>clonotype318_consensus_2: Could not find Primer Overlap that worked
+>clonotype326_consensus_1: Could not find Primer Overlap that worked
+>clonotype327_consensus_1: Could not find Primer Overlap that worked
+>clonotype339_consensus_1: Could not find Primer Overlap that worked
+>clonotype339_consensus_2: Could not find Primer Overlap that worked
+>clonotype355_consensus_1: Could not find Primer Overlap that worked
+>clonotype374_consensus_1: Could not find Primer Overlap that worked
+>clonotype393_consensus_1: Could not find Primer Overlap that worked
+>clonotype405_consensus_1: Could not find Primer Overlap that worked
+>clonotype411_consensus_1: Could not find Primer Overlap that worked
+>clonotype412_consensus_1: Could not find Primer Overlap that worked
+>clonotype422_consensus_1: Could not find Primer Overlap that worked
+>clonotype427_consensus_1: Could not find Primer Overlap that worked
+>clonotype428_consensus_1: Could not find Primer Overlap that worked
+>clonotype429_consensus_2: Could not find Primer Overlap that worked
+>clonotype446_consensus_2: Could not find Primer Overlap that worked
+>clonotype447_consensus_1: Could not find Primer Overlap that worked
+>clonotype473_consensus_1: Could not find Primer Overlap that worked
+>clonotype492_consensus_1: Could not find Primer Overlap that worked
+>clonotype505_consensus_1: Could not find Primer Overlap that worked
+>clonotype517_consensus_1: Could not find Primer Overlap that worked
+>clonotype523_consensus_1: Could not find Primer Overlap that worked
+>clonotype538_consensus_1: Could not find Primer Overlap that worked
+>clonotype542_consensus_1: Could not find Primer Overlap that worked
+>clonotype544_consensus_2: Could not find Primer Overlap that worked
+>clonotype553_consensus_1: Could not find Primer Overlap that worked
+>clonotype554_consensus_1: Could not find Primer Overlap that worked
+>clonotype563_consensus_1: Could not find Primer Overlap that worked
+>clonotype564_consensus_1: Could not find Primer Overlap that worked
+>clonotype566_consensus_1: Could not find Primer Overlap that worked
+>clonotype574_consensus_1: Could not find Primer Overlap that worked
+>clonotype577_consensus_1: Could not find Primer Overlap that worked
+>clonotype580_consensus_1: Could not find Primer Overlap that worked
+>clonotype588_consensus_1: Could not find Primer Overlap that worked
+>clonotype604_consensus_1: Could not find Primer Overlap that worked
+>clonotype611_consensus_1: Could not find Primer Overlap that worked
+>clonotype614_consensus_1: Could not find Primer Overlap that worked
+>clonotype624_consensus_1: Could not find Primer Overlap that worked
+>clonotype626_consensus_1: Could not find Primer Overlap that worked
+>clonotype630_consensus_1: Could not find Primer Overlap that worked
+>clonotype631_consensus_1: Could not find Primer Overlap that worked
+>clonotype633_consensus_1: Could not find Primer Overlap that worked
+>clonotype634_consensus_1: Could not find Primer Overlap that worked
+>clonotype654_consensus_1: Could not find Primer Overlap that worked
+>clonotype656_consensus_1: Could not find Primer Overlap that worked
+>clonotype660_consensus_1: Could not find Primer Overlap that worked
+>clonotype664_consensus_1: Could not find Primer Overlap that worked
+>clonotype668_consensus_1: Could not find Primer Overlap that worked
+>clonotype680_consensus_1: Could not find Primer Overlap that worked
+>clonotype693_consensus_1: Could not find Primer Overlap that worked
+>clonotype698_consensus_1: Could not find Primer Overlap that worked
+>clonotype714_consensus_1: Could not find Primer Overlap that worked
+>clonotype716_consensus_1: Could not find Primer Overlap that worked
+>clonotype718_consensus_1: Could not find Primer Overlap that worked
+>clonotype722_consensus_2: Could not find Primer Overlap that worked
+>clonotype738_consensus_1: Could not find Primer Overlap that worked
+>clonotype747_consensus_2: Could not find Primer Overlap that worked
+>clonotype770_consensus_1: Could not find Primer Overlap that worked
+>clonotype779_consensus_1: Could not find Primer Overlap that worked
+>clonotype792_consensus_1: Could not find Primer Overlap that worked
+>clonotype806_consensus_1: Could not find Primer Overlap that worked
+>clonotype809_consensus_1: Could not find Primer Overlap that worked
+>clonotype824_consensus_2: Could not find Primer Overlap that worked
+>clonotype837_consensus_1: Could not find Primer Overlap that worked
+>clonotype848_consensus_1: Could not find Primer Overlap that worked
+>clonotype854_consensus_1: Could not find Primer Overlap that worked
+>clonotype856_consensus_1: Could not find Primer Overlap that worked
+>clonotype858_consensus_1: Could not find Primer Overlap that worked
+>clonotype859_consensus_1: Could not find Primer Overlap that worked
+>clonotype863_consensus_1: Could not find Primer Overlap that worked
+>clonotype871_consensus_1: Could not find Primer Overlap that worked
+>clonotype876_consensus_1: Could not find Primer Overlap that worked
+>clonotype903_consensus_1: Could not find Primer Overlap that worked
+>clonotype906_consensus_1: Could not find Primer Overlap that worked
+>clonotype910_consensus_1: Could not find Primer Overlap that worked
+>clonotype921_consensus_1: Could not find Primer Overlap that worked
+>clonotype950_consensus_1: Could not find Primer Overlap that worked
+>clonotype954_consensus_1: Could not find Primer Overlap that worked
+>clonotype955_consensus_1: Could not find Primer Overlap that worked
+>clonotype965_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype969_consensus_1: Could not find Primer Overlap that worked
+>clonotype976_consensus_1: Could not find Primer Overlap that worked
+>clonotype993_consensus_2: Could not find Primer Overlap that worked
+>clonotype1007_consensus_1: Could not find Primer Overlap that worked
+>clonotype1008_consensus_1: Could not find Primer Overlap that worked
+>clonotype1022_consensus_1: Could not find Primer Overlap that worked
+>clonotype1024_consensus_1: Could not find Primer Overlap that worked
+>clonotype1025_consensus_1: Could not find Primer Overlap that worked
+>clonotype1030_consensus_1: Could not find Primer Overlap that worked
+>clonotype1044_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype1056_consensus_1: Could not find Primer Overlap that worked
+>clonotype1067_consensus_1: Could not find Primer Overlap that worked
+>clonotype1084_consensus_1: Could not find Primer Overlap that worked
+>clonotype1089_consensus_1: Could not find Primer Overlap that worked
+>clonotype1094_consensus_1: Could not find Primer Overlap that worked
+>clonotype1103_consensus_1: Could not find Primer Overlap that worked
+>clonotype1120_consensus_2: Could not find Primer Overlap that worked
+>clonotype1122_consensus_1: Could not find Primer Overlap that worked
+>clonotype1124_consensus_1: Could not find Primer Overlap that worked
+>clonotype1127_consensus_1: Could not find Primer Overlap that worked
+>clonotype1128_consensus_1: Could not find Primer Overlap that worked
+>clonotype1131_consensus_1: Could not find Primer Overlap that worked
+>clonotype1145_consensus_1: Could not find Primer Overlap that worked
+>clonotype1151_consensus_1: Could not find Primer Overlap that worked
+>clonotype1153_consensus_1: Could not find Primer Overlap that worked
+>clonotype1156_consensus_1: Could not find Primer Overlap that worked
+>clonotype1157_consensus_1: Could not find Primer Overlap that worked
+>clonotype1160_consensus_2: Could not find Primer Overlap that worked
+>clonotype1183_consensus_1: Could not find Primer Overlap that worked
+>clonotype1185_consensus_1: Could not find Primer Overlap that worked
+>clonotype1204_consensus_1: Could not find Primer Overlap that worked
+>clonotype1237_consensus_1: Could not find Primer Overlap that worked
+>clonotype1297_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype1298_consensus_1: Could not find Primer Overlap that worked
+>clonotype1318_consensus_1: Could not find Primer Overlap that worked
+>clonotype1343_consensus_1: Could not find Primer Overlap that worked
+>clonotype1365_consensus_1: Could not find Primer Overlap that worked
+>clonotype1367_consensus_1: Could not find Primer Overlap that worked
+>clonotype1367_consensus_2: Could not find Primer Overlap that worked
+>clonotype1371_consensus_1: Could not find Primer Overlap that worked
+>clonotype1374_consensus_1: Could not find Primer Overlap that worked
+>clonotype1375_consensus_1: Could not find Primer Overlap that worked
+>clonotype1380_consensus_1: Could not find Primer Overlap that worked
+>clonotype1387_consensus_1: Could not find Primer Overlap that worked
+>clonotype1404_consensus_1: Could not find Primer Overlap that worked
+>clonotype1423_consensus_1: Could not find Primer Overlap that worked
+>clonotype1433_consensus_1: Could not find Primer Overlap that worked
+>clonotype1435_consensus_1: Could not find Primer Overlap that worked
+>clonotype1437_consensus_1: Could not find Primer Overlap that worked
+>clonotype1441_consensus_1: Could not find Primer Overlap that worked
+>clonotype1455_consensus_1: Could not find Primer Overlap that worked
+>clonotype1476_consensus_1: Could not find Primer Overlap that worked
+>clonotype1478_consensus_1: Could not find Primer Overlap that worked
+>clonotype1483_consensus_1: Could not find Primer Overlap that worked
+>clonotype1487_consensus_1: Could not find Primer Overlap that worked
+>clonotype1494_consensus_1: Could not find Primer Overlap that worked
+>clonotype1501_consensus_1: Could not find Primer Overlap that worked
+>clonotype1503_consensus_1: Could not find Primer Overlap that worked
+>clonotype1504_consensus_1: Could not find Primer Overlap that worked
+>clonotype1505_consensus_1: Could not find Primer Overlap that worked
+>clonotype1516_consensus_1: Could not find Primer Overlap that worked
+>clonotype1524_consensus_1: Could not find Primer Overlap that worked
+>clonotype1536_consensus_1: Could not find Primer Overlap that worked
+>clonotype1538_consensus_1: Could not find Primer Overlap that worked
+>clonotype1540_consensus_1: Could not find Primer Overlap that worked
+>clonotype1549_consensus_1: Could not find Primer Overlap that worked
+>clonotype1551_consensus_1: Could not find Primer Overlap that worked
+>clonotype1557_consensus_1: Could not find Primer Overlap that worked
+>clonotype1561_consensus_1: Could not find Primer Overlap that worked
+>clonotype1564_consensus_1: Could not find Primer Overlap that worked
+>clonotype1581_consensus_1: Could not find Primer Overlap that worked
+>clonotype1587_consensus_1: Could not find Primer Overlap that worked
+>clonotype1591_consensus_1: Could not find Primer Overlap that worked
+>clonotype1592_consensus_1: Could not find Primer Overlap that worked
+>clonotype1598_consensus_1: Could not find Primer Overlap that worked
+>clonotype1602_consensus_1: Could not find Primer Overlap that worked
+>clonotype1614_consensus_1: Could not find Primer Overlap that worked
+>clonotype1620_consensus_1: Could not find Primer Overlap that worked
+>clonotype1621_consensus_1: Could not find Primer Overlap that worked
+>clonotype1622_consensus_1: Could not find Primer Overlap that worked
+>clonotype1626_consensus_1: Could not find Primer Overlap that worked
+>clonotype1628_consensus_1: Could not find Primer Overlap that worked
+>clonotype1655_consensus_1: Could not find Primer Overlap that worked
+>clonotype1667_consensus_1: Could not find Primer Overlap that worked
+>clonotype1685_consensus_1: Could not find Primer Overlap that worked
+>clonotype1696_consensus_1: Could not find Primer Overlap that worked
+>clonotype1712_consensus_1: Could not find Primer Overlap that worked
+>clonotype1715_consensus_1: Could not find Primer Overlap that worked
+>clonotype1716_consensus_1: Could not find Primer Overlap that worked
+>clonotype1720_consensus_1: Could not find Primer Overlap that worked
+>clonotype1741_consensus_1: Could not find Primer Overlap that worked
+>clonotype1744_consensus_1: Could not find Primer Overlap that worked
+>clonotype1747_consensus_1: Could not find Primer Overlap that worked
+>clonotype1760_consensus_1: Could not find Primer Overlap that worked
+>clonotype1828_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype1851_consensus_1: Could not find Primer Overlap that worked
+>clonotype1851_consensus_2: Could not find Primer Overlap that worked
+>clonotype1889_consensus_1: Could not find Primer Overlap that worked
+>clonotype1934_consensus_1: Could not find Primer Overlap that worked
+>clonotype1940_consensus_1: Could not find Primer Overlap that worked
+>clonotype1953_consensus_1: Could not find Primer Overlap that worked
+>clonotype1958_consensus_1: Could not find Primer Overlap that worked
+>clonotype1969_consensus_1: Could not find Primer Overlap that worked
+>clonotype1982_consensus_1: Could not find Primer Overlap that worked
+>clonotype2035_consensus_1: Could not find Primer Overlap that worked
+>clonotype2042_consensus_2: Could not find Primer Overlap that worked
+>clonotype2051_consensus_1: Could not find Primer Overlap that worked
+>clonotype2065_consensus_1: Could not find Primer Overlap that worked
+>clonotype2090_consensus_1: Could not find Primer Overlap that worked
+>clonotype2092_consensus_1: Could not find Primer Overlap that worked
+>clonotype2103_consensus_1: Could not find Primer Overlap that worked
+>clonotype2105_consensus_1: Could not find Primer Overlap that worked
+>clonotype2106_consensus_1: Could not find Primer Overlap that worked
+>clonotype2150_consensus_1: Could not find Primer Overlap that worked
+>clonotype2184_consensus_1: Could not find Primer Overlap that worked
+>clonotype2210_consensus_2: Could not find Primer Overlap that worked
+>clonotype2212_consensus_1: Could not find Primer Overlap that worked
+>clonotype2222_consensus_2: Could not find Primer Overlap that worked
+>clonotype2239_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2252_consensus_1: Could not find Primer Overlap that worked
+>clonotype2281_consensus_1: Could not find Primer Overlap that worked
+>clonotype2285_consensus_1: Could not find Primer Overlap that worked
+>clonotype2293_consensus_1: Could not find Primer Overlap that worked
+>clonotype2303_consensus_1: Could not find Primer Overlap that worked
+>clonotype2304_consensus_1: Could not find Primer Overlap that worked
+>clonotype2313_consensus_1: Could not find Primer Overlap that worked
+>clonotype2325_consensus_1: Could not find Primer Overlap that worked
+>clonotype2330_consensus_1: Could not find Primer Overlap that worked
+>clonotype2337_consensus_1: Could not find Primer Overlap that worked
+>clonotype2340_consensus_2: Could not find Primer Overlap that worked
+>clonotype2352_consensus_1: Could not find Primer Overlap that worked
+>clonotype2372_consensus_1: Could not find Primer Overlap that worked
+>clonotype2383_consensus_2: Could not find Primer Overlap that worked
+>clonotype2397_consensus_1: Could not find Primer Overlap that worked
+>clonotype2399_consensus_1: Could not find Primer Overlap that worked
+>clonotype2399_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2406_consensus_1: Could not find Primer Overlap that worked
+>clonotype2447_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2452_consensus_1: Could not find Primer Overlap that worked
+>clonotype2456_consensus_1: Could not find Primer Overlap that worked
+>clonotype2467_consensus_1: Could not find Primer Overlap that worked
+>clonotype2480_consensus_1: Could not find Primer Overlap that worked
+>clonotype2481_consensus_1: Could not find Primer Overlap that worked
+>clonotype2497_consensus_1: Could not find Primer Overlap that worked
+>clonotype2517_consensus_1: Could not find Primer Overlap that worked
+>clonotype2526_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2548_consensus_2: Could not find Primer Overlap that worked
+>clonotype2554_consensus_1: Could not find Primer Overlap that worked
+>clonotype2555_consensus_1: Could not find Primer Overlap that worked
+>clonotype2572_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2573_consensus_1: Could not find Primer Overlap that worked
+>clonotype2590_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype2598_consensus_1: Could not find Primer Overlap that worked
+>clonotype2603_consensus_1: Could not find Primer Overlap that worked
+>clonotype2610_consensus_1: Could not find Primer Overlap that worked
+>clonotype2715_consensus_1: Could not find Primer Overlap that worked
+>clonotype2743_consensus_1: Could not find Primer Overlap that worked
+>clonotype2759_consensus_1: Could not find Primer Overlap that worked
+>clonotype2773_consensus_1: Could not find Primer Overlap that worked
+>clonotype2804_consensus_1: Could not find Primer Overlap that worked
+>clonotype2816_consensus_1: Could not find Primer Overlap that worked
+>clonotype2817_consensus_1: Could not find Primer Overlap that worked
+>clonotype2818_consensus_1: Could not find Primer Overlap that worked
+>clonotype2853_consensus_2: Could not find Primer Overlap that worked
+>clonotype2860_consensus_1: Could not find Primer Overlap that worked
+>clonotype2873_consensus_1: Could not find Primer Overlap that worked
+>clonotype2874_consensus_1: Could not find Primer Overlap that worked
+>clonotype2890_consensus_2: Could not find Primer Overlap that worked
+>clonotype2927_consensus_2: Could not find Primer Overlap that worked
+>clonotype2945_consensus_1: Could not find Primer Overlap that worked
+>clonotype2947_consensus_1: Could not find Primer Overlap that worked
+>clonotype2948_consensus_1: Could not find Primer Overlap that worked
+>clonotype2959_consensus_2: Could not find Primer Overlap that worked
+>clonotype2970_consensus_1: Could not find Primer Overlap that worked
+>clonotype2975_consensus_1: Could not find Primer Overlap that worked
+>clonotype2986_consensus_2: Could not find Primer Overlap that worked
+>clonotype2987_consensus_2: Could not find Primer Overlap that worked
+>clonotype2997_consensus_1: Could not find Primer Overlap that worked
+>clonotype3005_consensus_2: Could not find Primer Overlap that worked
+>clonotype3022_consensus_1: Could not find Primer Overlap that worked
+>clonotype3024_consensus_1: Could not find Primer Overlap that worked
+>clonotype3042_consensus_1: Could not find Primer Overlap that worked
+>clonotype3076_consensus_1: Could not find Primer Overlap that worked
+>clonotype3105_consensus_2: Could not find Primer Overlap that worked
+>clonotype3111_consensus_1: Could not find Primer Overlap that worked
+>clonotype3129_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3145_consensus_2: Could not find Primer Overlap that worked
+>clonotype3155_consensus_1: Could not find Primer Overlap that worked
+>clonotype3166_consensus_1: Could not find Primer Overlap that worked
+>clonotype3171_consensus_1: Could not find Primer Overlap that worked
+>clonotype3174_consensus_1: Could not find Primer Overlap that worked
+>clonotype3219_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3231_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3243_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3254_consensus_1: Could not find Primer Overlap that worked
+>clonotype3255_consensus_1: Could not find Primer Overlap that worked
+>clonotype3259_consensus_1: Could not find Primer Overlap that worked
+>clonotype3270_consensus_1: Could not find Primer Overlap that worked
+>clonotype3292_consensus_1: Could not find Primer Overlap that worked
+>clonotype3293_consensus_1: Could not find Primer Overlap that worked
+>clonotype3315_consensus_2: Could not find Primer Overlap that worked
+>clonotype3324_consensus_2: Could not find Primer Overlap that worked
+>clonotype3332_consensus_1: Could not find Primer Overlap that worked
+>clonotype3336_consensus_1: Could not find Primer Overlap that worked
+>clonotype3339_consensus_1: Could not find Primer Overlap that worked
+>clonotype3345_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3381_consensus_1: Could not find Primer Overlap that worked
+>clonotype3385_consensus_1: Could not find Primer Overlap that worked
+>clonotype3414_consensus_1: Could not find Primer Overlap that worked
+>clonotype3422_consensus_1: Could not find Primer Overlap that worked
+>clonotype3428_consensus_1: Could not find Primer Overlap that worked
+>clonotype3455_consensus_1: Could not find Primer Overlap that worked
+>clonotype3460_consensus_1: Could not find Primer Overlap that worked
+>clonotype3465_consensus_1: Could not find Primer Overlap that worked
+>clonotype3495_consensus_2: Could not find Primer Overlap that worked
+>clonotype3504_consensus_1: Could not find Primer Overlap that worked
+>clonotype3514_consensus_1: Could not find Primer Overlap that worked
+>clonotype3516_consensus_1: Could not find Primer Overlap that worked
+>clonotype3519_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype3520_consensus_1: Could not find Primer Overlap that worked
+>clonotype3523_consensus_1: Could not find Primer Overlap that worked
+>clonotype3556_consensus_1: Could not find Primer Overlap that worked
+>clonotype3588_consensus_1: Could not find Primer Overlap that worked
+>clonotype3593_consensus_1: Could not find Primer Overlap that worked
+>clonotype3621_consensus_1: Could not find Primer Overlap that worked
+>clonotype3642_consensus_1: Could not find Primer Overlap that worked
+>clonotype3643_consensus_1: Could not find Primer Overlap that worked
+>clonotype3644_consensus_1: Could not find Primer Overlap that worked
+>clonotype3645_consensus_1: Could not find Primer Overlap that worked
+>clonotype3646_consensus_1: Could not find Primer Overlap that worked
+>clonotype3647_consensus_1: Could not find Primer Overlap that worked
+>clonotype3648_consensus_1: Could not find Primer Overlap that worked
+>clonotype3649_consensus_1: Could not find Primer Overlap that worked
+>clonotype3656_consensus_1: Could not find Primer Overlap that worked
+>clonotype3690_consensus_1: Could not find Primer Overlap that worked
+>clonotype3691_consensus_1: Could not find Primer Overlap that worked
+>clonotype3692_consensus_1: Could not find Primer Overlap that worked
+>clonotype3693_consensus_1: Could not find Primer Overlap that worked
+>clonotype3694_consensus_1: Could not find Primer Overlap that worked
+>clonotype3695_consensus_1: Could not find Primer Overlap that worked
+>clonotype3696_consensus_1: Could not find Primer Overlap that worked
+>clonotype3697_consensus_1: Could not find Primer Overlap that worked
+>clonotype3698_consensus_1: Could not find Primer Overlap that worked
+>clonotype3699_consensus_1: Could not find Primer Overlap that worked
+>clonotype3700_consensus_1: Could not find Primer Overlap that worked
+>clonotype3701_consensus_1: Could not find Primer Overlap that worked
+>clonotype3702_consensus_1: Could not find Primer Overlap that worked
+>clonotype3731_consensus_1: Could not find Primer Overlap that worked
+>clonotype3763_consensus_2: Could not find Primer Overlap that worked
+>clonotype3770_consensus_1: Could not find Primer Overlap that worked
+>clonotype3776_consensus_2: Could not find Primer Overlap that worked
+>clonotype3804_consensus_1: Could not find Primer Overlap that worked
+>clonotype3805_consensus_1: Could not find Primer Overlap that worked
+>clonotype3833_consensus_1: Could not find Primer Overlap that worked
+>clonotype3834_consensus_2: Could not find Primer Overlap that worked
+>clonotype3836_consensus_1: Could not find Primer Overlap that worked
+>clonotype3839_consensus_1: Could not find Primer Overlap that worked
+>clonotype3842_consensus_1: Could not find Primer Overlap that worked
+>clonotype3854_consensus_1: Could not find Primer Overlap that worked
+>clonotype3858_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3868_consensus_1: Could not find Primer Overlap that worked
+>clonotype3875_consensus_1: Could not find Primer Overlap that worked
+>clonotype3878_consensus_2: Could not find Primer Overlap that worked
+>clonotype3888_consensus_1: Could not find Primer Overlap that worked
+>clonotype3889_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype3927_consensus_1: Could not find Primer Overlap that worked
+>clonotype3942_consensus_1: Could not find Primer Overlap that worked
+>clonotype3958_consensus_2: Could not find Primer Overlap that worked
+>clonotype3959_consensus_1: Could not find Primer Overlap that worked
+>clonotype3969_consensus_1: Could not find Primer Overlap that worked
+>clonotype3970_consensus_1: Could not find Primer Overlap that worked
+>clonotype3995_consensus_1: Could not find Primer Overlap that worked
+>clonotype4002_consensus_1: Could not find Primer Overlap that worked
+>clonotype4018_consensus_1: Could not find Primer Overlap that worked
+>clonotype4019_consensus_1: Could not find Primer Overlap that worked
+>clonotype4033_consensus_1: Could not find Primer Overlap that worked
+>clonotype4034_consensus_1: Could not find Primer Overlap that worked
+>clonotype4035_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype4037_consensus_2: Could not find Primer Overlap that worked
+>clonotype4041_consensus_1: Could not find Primer Overlap that worked
+>clonotype4065_consensus_1: Could not find Primer Overlap that worked
+>clonotype4072_consensus_2: Could not find Primer Overlap that worked
+>clonotype4082_consensus_1: Could not find Primer Overlap that worked
+>clonotype4084_consensus_2: Could not find Primer Overlap that worked
+>clonotype4105_consensus_1: Could not find Primer Overlap that worked
+>clonotype4106_consensus_1: Could not find Primer Overlap that worked
+>clonotype4137_consensus_1: Could not find Primer Overlap that worked
+>clonotype4142_consensus_1: Could not find Primer Overlap that worked
+>clonotype4144_consensus_1: Could not find Primer Overlap that worked
+>clonotype4152_consensus_2: Could not find Primer Overlap that worked
+>clonotype4156_consensus_1: Could not find Primer Overlap that worked
+>clonotype4157_consensus_1: Could not find Primer Overlap that worked
+>clonotype4165_consensus_1: Could not find Primer Overlap that worked
+>clonotype4170_consensus_1: Could not find Primer Overlap that worked
+>clonotype4198_consensus_1: Could not find Primer Overlap that worked
+>clonotype4201_consensus_1: Could not find Primer Overlap that worked
+>clonotype4204_consensus_1: Could not find Primer Overlap that worked
+>clonotype4215_consensus_1: Could not find Primer Overlap that worked
+>clonotype4218_consensus_1: Could not find Primer Overlap that worked
+>clonotype4221_consensus_1: Could not find Primer Overlap that worked
+>clonotype4224_consensus_1: Could not find Primer Overlap that worked
+>clonotype4225_consensus_1: Could not find Primer Overlap that worked
+>clonotype4228_consensus_1: Could not find Primer Overlap that worked
+>clonotype4243_consensus_1: Could not find Primer Overlap that worked
+>clonotype4244_consensus_1: Could not find Primer Overlap that worked
+>clonotype4246_consensus_1: Could not find Primer Overlap that worked
+>clonotype4247_consensus_1: Could not find Primer Overlap that worked
+>clonotype4255_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype4257_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype4260_consensus_2: Could not find Primer Overlap that worked
+>clonotype4268_consensus_1: Could not find Primer Overlap that worked
+>clonotype4277_consensus_1: Could not find Primer Overlap that worked
+>clonotype4285_consensus_1: Could not find Primer Overlap that worked
+>clonotype4289_consensus_1: Could not find Primer Overlap that worked
+>clonotype4305_consensus_1: Could not find Primer Overlap that worked
+>clonotype4316_consensus_1: Could not find Primer Overlap that worked
+>clonotype4331_consensus_1: Could not find Primer Overlap that worked
+>clonotype4335_consensus_1: Could not find Primer Overlap that worked
+>clonotype4337_consensus_2: Could not find Primer Overlap that worked
+>clonotype4341_consensus_1: Could not find Primer Overlap that worked
+>clonotype4342_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype4389_consensus_2: Could not find Primer Overlap that worked
+>clonotype4394_consensus_1: Could not find Primer Overlap that worked
+>clonotype4395_consensus_1: Could not find Primer Overlap that worked
+>clonotype4396_consensus_2: Could not find Primer Overlap that worked
+>clonotype4406_consensus_2: Could not find Primer Overlap that worked
+>clonotype4407_consensus_1: Could not find Primer Overlap that worked
+>clonotype4415_consensus_2: Could not find Primer Overlap that worked
+>clonotype4417_consensus_1: Could not find Primer Overlap that worked
+>clonotype4420_consensus_2: Could not find Primer Overlap that worked
+>clonotype4445_consensus_1: Could not find Primer Overlap that worked
+>clonotype4452_consensus_2: Could not find Primer Overlap that worked
+>clonotype4460_consensus_2: Could not find Primer Overlap that worked
+>clonotype4475_consensus_1: Could not find Primer Overlap that worked
+>clonotype4476_consensus_2: Could not find Primer Overlap that worked
+>clonotype4479_consensus_1: Could not find Primer Overlap that worked
+>clonotype4521_consensus_1: Could not find Primer Overlap that worked
+>clonotype4537_consensus_1: Could not find Primer Overlap that worked
+>clonotype4559_consensus_2: Could not find Primer Overlap that worked
+>clonotype4607_consensus_1: Could not find Primer Overlap that worked
+>clonotype4609_consensus_1: Could not find Primer Overlap that worked
+>clonotype4611_consensus_1: Could not find Primer Overlap that worked
+>clonotype4636_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype4637_consensus_1: Could not find Primer Overlap that worked
+>clonotype4647_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype4656_consensus_1: Could not find Primer Overlap that worked
+>clonotype4667_consensus_1: Could not find Primer Overlap that worked
+>clonotype4705_consensus_1: Could not find Primer Overlap that worked
+>clonotype4723_consensus_1: Could not find Primer Overlap that worked
+>clonotype4740_consensus_1: Could not find Primer Overlap that worked
+>clonotype4741_consensus_1: Could not find Primer Overlap that worked
+>clonotype4770_consensus_1: Could not find Primer Overlap that worked
+>clonotype4772_consensus_1: Could not find Primer Overlap that worked
+>clonotype4791_consensus_1: Could not find Primer Overlap that worked
+>clonotype4864_consensus_1: Could not find Primer Overlap that worked
+>clonotype4873_consensus_1: Could not find Primer Overlap that worked
+>clonotype4876_consensus_1: Could not find Primer Overlap that worked
+>clonotype4885_consensus_1: Could not find Primer Overlap that worked
+>clonotype4902_consensus_1: Could not find Primer Overlap that worked
+>clonotype4903_consensus_1: Could not find Primer Overlap that worked
+>clonotype4924_consensus_1: Could not find Primer Overlap that worked
+>clonotype4924_consensus_2: Could not find Primer Overlap that worked
+>clonotype4947_consensus_1: Could not find Primer Overlap that worked
+>clonotype4948_consensus_1: Could not find Primer Overlap that worked
+>clonotype4955_consensus_1: Could not find Primer Overlap that worked
+>clonotype4956_consensus_1: Could not find Primer Overlap that worked
+>clonotype4957_consensus_2: Could not find Primer Overlap that worked
+>clonotype4958_consensus_2: Could not find Primer Overlap that worked
+>clonotype4964_consensus_1: Could not find Primer Overlap that worked
+>clonotype4999_consensus_1: Could not find Primer Overlap that worked
+>clonotype5000_consensus_2: Could not find Primer Overlap that worked
+>clonotype5026_consensus_1: Could not find Primer Overlap that worked
+>clonotype5030_consensus_2: Could not find Primer Overlap that worked
+>clonotype5033_consensus_1: Could not find Primer Overlap that worked
+>clonotype5036_consensus_1: Could not find Primer Overlap that worked
+>clonotype5045_consensus_1: Could not find Primer Overlap that worked
+>clonotype5046_consensus_1: Could not find Primer Overlap that worked
+>clonotype5067_consensus_1: Could not find Primer Overlap that worked
+>clonotype5068_consensus_1: Could not find Primer Overlap that worked
+>clonotype5076_consensus_1: Could not find Primer Overlap that worked
+>clonotype5086_consensus_2: Could not find Primer Overlap that worked
+>clonotype5088_consensus_1: Could not find Primer Overlap that worked
+>clonotype5100_consensus_2: Could not find Primer Overlap that worked
+>clonotype5125_consensus_1: Could not find Primer Overlap that worked
+>clonotype5139_consensus_1: Could not find Primer Overlap that worked
+>clonotype5162_consensus_1: Could not find Primer Overlap that worked
+>clonotype5165_consensus_1: Could not find Primer Overlap that worked
+>clonotype5165_consensus_2: Could not find Primer Overlap that worked
+>clonotype5187_consensus_1: Could not find Primer Overlap that worked
+>clonotype5196_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype5208_consensus_1: Could not find Primer Overlap that worked
+>clonotype5211_consensus_1: Could not find Primer Overlap that worked
+>clonotype5217_consensus_1: Could not find Primer Overlap that worked
+>clonotype5240_consensus_2: Could not find Primer Overlap that worked
+>clonotype5241_consensus_1: Could not find Primer Overlap that worked
+>clonotype5263_consensus_1: Could not find Primer Overlap that worked
+>clonotype5272_consensus_2: Could not find Primer Overlap that worked
+>clonotype5283_consensus_1: Could not find Primer Overlap that worked
+>clonotype5292_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype5313_consensus_1: Could not find Primer Overlap that worked
+>clonotype5319_consensus_1: Could not find Primer Overlap that worked
+>clonotype5321_consensus_1: Could not find Primer Overlap that worked
+>clonotype5333_consensus_1: Could not find Primer Overlap that worked
+>clonotype5337_consensus_1: Could not find Primer Overlap that worked
+>clonotype5355_consensus_2: Could not find Primer Overlap that worked
+>clonotype5362_consensus_1: Could not find Primer Overlap that worked
+>clonotype5363_consensus_1: Could not find Primer Overlap that worked
+>clonotype5367_consensus_2: Could not find Primer Overlap that worked
+>clonotype5373_consensus_2: Could not find Primer Overlap that worked
+>clonotype5384_consensus_2: Could not find Primer Overlap that worked
+>clonotype5385_consensus_1: Could not find Primer Overlap that worked
+>clonotype5393_consensus_1: Could not find Primer Overlap that worked
+>clonotype5393_consensus_2: Could not find Primer Overlap that worked
+>clonotype5396_consensus_2: Could not find Primer Overlap that worked
+>clonotype5399_consensus_1: Could not find Primer Overlap that worked
+>clonotype5403_consensus_1: Could not find Primer Overlap that worked
+>clonotype5404_consensus_1: Could not find Primer Overlap that worked
+>clonotype5415_consensus_1: Could not find Primer Overlap that worked
+>clonotype5426_consensus_1: Could not find Primer Overlap that worked
+>clonotype5428_consensus_1: Could not find Primer Overlap that worked
+>clonotype5431_consensus_2: Could not find Primer Overlap that worked
+>clonotype5434_consensus_1: Could not find Primer Overlap that worked
+>clonotype5435_consensus_2: Could not find Primer Overlap that worked
+>clonotype5440_consensus_1: Could not find Primer Overlap that worked
+>clonotype5443_consensus_1: Could not find Primer Overlap that worked
+>clonotype5448_consensus_1: Could not find Primer Overlap that worked
+>clonotype5452_consensus_2: Could not find Primer Overlap that worked
+>clonotype5485_consensus_1: Could not find Primer Overlap that worked
+>clonotype5491_consensus_2: Could not find Primer Overlap that worked
+>clonotype5499_consensus_1: Could not find Primer Overlap that worked
+>clonotype5511_consensus_1: Could not find Primer Overlap that worked
+>clonotype5514_consensus_1: Could not find Primer Overlap that worked
+>clonotype5534_consensus_1: Could not find Primer Overlap that worked
+>clonotype5575_consensus_1: Could not find Primer Overlap that worked
+>clonotype5590_consensus_1: Could not find Primer Overlap that worked
+>clonotype5596_consensus_1: Could not find Primer Overlap that worked
+>clonotype5603_consensus_1: Could not find Primer Overlap that worked
+>clonotype5607_consensus_1: Could not find Primer Overlap that worked
+>clonotype5631_consensus_1: Could not find Primer Overlap that worked
+>clonotype5649_consensus_1: Could not find Primer Overlap that worked
+>clonotype5655_consensus_1: Could not find Primer Overlap that worked
+>clonotype5665_consensus_1: Could not find Primer Overlap that worked
+>clonotype5701_consensus_1: Could not find Primer Overlap that worked
+>clonotype5713_consensus_1: Could not find Primer Overlap that worked
+>clonotype5715_consensus_1: Could not find Primer Overlap that worked
+>clonotype5716_consensus_1: Could not find Primer Overlap that worked
+>clonotype5717_consensus_1: Could not find Primer Overlap that worked
+>clonotype5732_consensus_1: Could not find Primer Overlap that worked
+>clonotype5737_consensus_1: Could not find Primer Overlap that worked
+>clonotype5749_consensus_1: Could not find Primer Overlap that worked
+>clonotype5767_consensus_1: Could not find Primer Overlap that worked
+>clonotype5768_consensus_1: Could not find Primer Overlap that worked
+>clonotype5776_consensus_1: Could not find Primer Overlap that worked
+>clonotype5792_consensus_1: Could not find Primer Overlap that worked
+>clonotype5812_consensus_1: Could not find Primer Overlap that worked
+>clonotype5813_consensus_1: Could not find Primer Overlap that worked
+>clonotype5817_consensus_1: Could not find Primer Overlap that worked
+>clonotype5818_consensus_1: Could not find Primer Overlap that worked
+>clonotype5820_consensus_1: Could not find Primer Overlap that worked
+>clonotype5832_consensus_1: Could not find Primer Overlap that worked
+>clonotype5848_consensus_1: Could not find Primer Overlap that worked
+>clonotype5849_consensus_2: Could not find Primer Overlap that worked
+>clonotype5869_consensus_1: Could not find Primer Overlap that worked
+>clonotype5882_consensus_1: Could not find Primer Overlap that worked
+>clonotype5887_consensus_1: Could not find Primer Overlap that worked
+>clonotype5910_consensus_1: Could not find Primer Overlap that worked
+>clonotype5917_consensus_2: Could not find Primer Overlap that worked
+>clonotype5926_consensus_1: Could not find Primer Overlap that worked
+>clonotype5940_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype5955_consensus_1: Could not find Primer Overlap that worked
+>clonotype5966_consensus_1: Could not find Primer Overlap that worked
+>clonotype5967_consensus_1: Could not find Primer Overlap that worked
+>clonotype5968_consensus_1: Could not find Primer Overlap that worked
+>clonotype5971_consensus_1: Could not find Primer Overlap that worked
+>clonotype5975_consensus_1: Could not find Primer Overlap that worked
+>clonotype5992_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype5997_consensus_1: Could not find Primer Overlap that worked
+>clonotype6016_consensus_1: Could not find Primer Overlap that worked
+>clonotype6036_consensus_1: Could not find Primer Overlap that worked
+>clonotype6038_consensus_1: Could not find Primer Overlap that worked
+>clonotype6084_consensus_1: Could not find Primer Overlap that worked
+>clonotype6085_consensus_1: Could not find Primer Overlap that worked
+>clonotype6086_consensus_1: Could not find Primer Overlap that worked
+>clonotype6087_consensus_1: Could not find Primer Overlap that worked
+>clonotype6088_consensus_1: Could not find Primer Overlap that worked
+>clonotype6127_consensus_1: Could not find Primer Overlap that worked
+>clonotype6128_consensus_1: Could not find Primer Overlap that worked
+>clonotype6160_consensus_1: Could not find Primer Overlap that worked
+>clonotype6161_consensus_1: Could not find Primer Overlap that worked
+>clonotype6162_consensus_1: Could not find Primer Overlap that worked
+>clonotype6213_consensus_1: Could not find Primer Overlap that worked
+>clonotype6218_consensus_1: Could not find Primer Overlap that worked
+>clonotype6220_consensus_1: Could not find Primer Overlap that worked
+>clonotype6221_consensus_1: Could not find Primer Overlap that worked
+>clonotype6222_consensus_1: Could not find Primer Overlap that worked
+>clonotype6223_consensus_1: Could not find Primer Overlap that worked
+>clonotype6226_consensus_1: Could not find Primer Overlap that worked
+>clonotype6227_consensus_1: Could not find Primer Overlap that worked
+>clonotype6228_consensus_1: Could not find Primer Overlap that worked
+>clonotype6264_consensus_2: Could not find Primer Overlap that worked
+>clonotype6268_consensus_1: Could not find Primer Overlap that worked
+>clonotype6277_consensus_1: Could not find Primer Overlap that worked
+>clonotype6303_consensus_2: Could not find Primer Overlap that worked
+>clonotype6304_consensus_1: Could not find Primer Overlap that worked
+>clonotype6304_consensus_2: Could not find Primer Overlap that worked
+>clonotype6307_consensus_1: Could not find Primer Overlap that worked
+>clonotype6311_consensus_1: Could not find Primer Overlap that worked
+>clonotype6314_consensus_1: Could not find Primer Overlap that worked
+>clonotype6339_consensus_1: Could not find Primer Overlap that worked
+>clonotype6342_consensus_2: Could not find Primer Overlap that worked
+>clonotype6356_consensus_1: Could not find Primer Overlap that worked
+>clonotype6368_consensus_1: Could not find Primer Overlap that worked
+>clonotype6392_consensus_1: Could not find Primer Overlap that worked
+>clonotype6395_consensus_1: Could not find Primer Overlap that worked
+>clonotype6402_consensus_1: Could not find Primer Overlap that worked
+>clonotype6404_consensus_2: Could not find Primer Overlap that worked
+>clonotype6405_consensus_2: Could not find Primer Overlap that worked
+>clonotype6410_consensus_1: Could not find Primer Overlap that worked
+>clonotype6412_consensus_1: Could not find Primer Overlap that worked
+>clonotype6425_consensus_1: Could not find Primer Overlap that worked
+>clonotype6426_consensus_2: Could not find Primer Overlap that worked
+>clonotype6431_consensus_2: Could not find Primer Overlap that worked
+>clonotype6441_consensus_1: Could not find Primer Overlap that worked
+>clonotype6450_consensus_1: Could not find Primer Overlap that worked
+>clonotype6453_consensus_1: Could not find Primer Overlap that worked
+>clonotype6456_consensus_1: Could not find Primer Overlap that worked
+>clonotype6474_consensus_2: Could not find Primer Overlap that worked
+>clonotype6477_consensus_1: Could not find Primer Overlap that worked
+>clonotype6478_consensus_1: Could not find Primer Overlap that worked
+>clonotype6487_consensus_1: Could not find Primer Overlap that worked
+>clonotype6501_consensus_1: Could not find Primer Overlap that worked
+>clonotype6502_consensus_1: Could not find Primer Overlap that worked
+>clonotype6504_consensus_1: Could not find Primer Overlap that worked
+>clonotype6512_consensus_1: Could not find Primer Overlap that worked
+>clonotype6521_consensus_1: Could not find Primer Overlap that worked
+>clonotype6526_consensus_1: Could not find Primer Overlap that worked
+>clonotype6526_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype6534_consensus_1: Could not find Primer Overlap that worked
+>clonotype6548_consensus_1: Could not find Primer Overlap that worked
+>clonotype6548_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype6554_consensus_1: Could not find Primer Overlap that worked
+>clonotype6570_consensus_1: Could not find Primer Overlap that worked
+>clonotype6573_consensus_1: Could not find Primer Overlap that worked
+>clonotype6574_consensus_1: Could not find Primer Overlap that worked
+>clonotype6577_consensus_1: Could not find Primer Overlap that worked
+>clonotype6579_consensus_2: Could not find Primer Overlap that worked
+>clonotype6581_consensus_1: Could not find Primer Overlap that worked
+>clonotype6587_consensus_2: Could not find Primer Overlap that worked
+>clonotype6589_consensus_1: Could not find Primer Overlap that worked
+>clonotype6592_consensus_2: Could not find Primer Overlap that worked
+>clonotype6603_consensus_1: Could not find Primer Overlap that worked
+>clonotype6612_consensus_1: Could not find Primer Overlap that worked
+>clonotype6625_consensus_1: Could not find Primer Overlap that worked
+>clonotype6626_consensus_1: Could not find Primer Overlap that worked
+>clonotype6627_consensus_1: Could not find Primer Overlap that worked
+>clonotype6631_consensus_1: Could not find Primer Overlap that worked
+>clonotype6634_consensus_1: Could not find Primer Overlap that worked
+>clonotype6637_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype6640_consensus_1: Could not find Primer Overlap that worked
+>clonotype6642_consensus_1: Could not find Primer Overlap that worked
+>clonotype6643_consensus_1: Could not find Primer Overlap that worked
+>clonotype6647_consensus_1: Could not find Primer Overlap that worked
+>clonotype6655_consensus_1: Could not find Primer Overlap that worked
+>clonotype6673_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype6679_consensus_1: Could not find Primer Overlap that worked
+>clonotype6680_consensus_2: Could not find Primer Overlap that worked
+>clonotype6686_consensus_1: Could not find Primer Overlap that worked
+>clonotype6697_consensus_1: Could not find Primer Overlap that worked
+>clonotype6699_consensus_1: Could not find Primer Overlap that worked
+>clonotype6713_consensus_1: Could not find Primer Overlap that worked
+>clonotype6714_consensus_1: Could not find Primer Overlap that worked
+>clonotype6722_consensus_1: Could not find Primer Overlap that worked
+>clonotype6724_consensus_1: Could not find Primer Overlap that worked
+>clonotype6725_consensus_1: Could not find Primer Overlap that worked
+>clonotype6730_consensus_1: Could not find Primer Overlap that worked
+>clonotype6731_consensus_1: Could not find Primer Overlap that worked
+>clonotype6744_consensus_1: Could not find Primer Overlap that worked
+>clonotype6762_consensus_1: Could not find Primer Overlap that worked
+>clonotype6773_consensus_1: Could not find Primer Overlap that worked
+>clonotype6791_consensus_2: Could not find Primer Overlap that worked
+>clonotype6795_consensus_1: Could not find Primer Overlap that worked
+>clonotype6796_consensus_1: Could not find Primer Overlap that worked
+>clonotype6799_consensus_1: Could not find Primer Overlap that worked
+>clonotype6814_consensus_1: Could not find Primer Overlap that worked
+>clonotype6815_consensus_1: Could not find Primer Overlap that worked
+>clonotype6819_consensus_1: Could not find Primer Overlap that worked
+>clonotype6821_consensus_1: Could not find Primer Overlap that worked
+>clonotype6823_consensus_1: Could not find Primer Overlap that worked
+>clonotype6829_consensus_1: Could not find Primer Overlap that worked
+>clonotype6841_consensus_2: Could not find Primer Overlap that worked
+>clonotype6844_consensus_1: Could not find Primer Overlap that worked
+>clonotype6847_consensus_1: Could not find Primer Overlap that worked
+>clonotype6849_consensus_1: Could not find Primer Overlap that worked
+>clonotype6851_consensus_1: Could not find Primer Overlap that worked
+>clonotype6869_consensus_1: Could not find Primer Overlap that worked
+>clonotype6884_consensus_1: Could not find Primer Overlap that worked
+>clonotype6885_consensus_1: Could not find Primer Overlap that worked
+>clonotype6888_consensus_1: Could not find Primer Overlap that worked
+>clonotype6891_consensus_1: Could not find Primer Overlap that worked
+>clonotype6895_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype6905_consensus_1: Could not find Primer Overlap that worked
+>clonotype6909_consensus_1: Could not find Primer Overlap that worked
+>clonotype6918_consensus_1: Could not find Primer Overlap that worked
+>clonotype6919_consensus_1: Could not find Primer Overlap that worked
+>clonotype6931_consensus_1: Could not find Primer Overlap that worked
+>clonotype6933_consensus_1: Could not find Primer Overlap that worked
+>clonotype6933_consensus_2: Could not find Primer Overlap that worked
+>clonotype6934_consensus_1: Could not find Primer Overlap that worked
+>clonotype6953_consensus_1: Could not find Primer Overlap that worked
+>clonotype6965_consensus_2: Could not find Primer Overlap that worked
+>clonotype6973_consensus_2: Could not find Primer Overlap that worked
+>clonotype6980_consensus_1: Could not find Primer Overlap that worked
+>clonotype6990_consensus_1: Could not find Primer Overlap that worked
+>clonotype6993_consensus_2: Could not find Primer Overlap that worked
+>clonotype6994_consensus_1: Could not find Primer Overlap that worked
+>clonotype6995_consensus_1: Could not find Primer Overlap that worked
+>clonotype7008_consensus_1: Could not find Primer Overlap that worked
+>clonotype7029_consensus_1: Could not find Primer Overlap that worked
+>clonotype7030_consensus_1: Could not find Primer Overlap that worked
+>clonotype7034_consensus_1: Could not find Primer Overlap that worked
+>clonotype7043_consensus_1: Could not find Primer Overlap that worked
+>clonotype7046_consensus_1: Could not find Primer Overlap that worked
+>clonotype7050_consensus_2: Could not find Primer Overlap that worked
+>clonotype7054_consensus_1: Could not find Primer Overlap that worked
+>clonotype7055_consensus_1: Could not find Primer Overlap that worked
+>clonotype7062_consensus_1: Could not find Primer Overlap that worked
+>clonotype7069_consensus_1: Could not find Primer Overlap that worked
+>clonotype7082_consensus_1: Could not find Primer Overlap that worked
+>clonotype7083_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype7111_consensus_1: Could not find Primer Overlap that worked
+>clonotype7116_consensus_1: Could not find Primer Overlap that worked
+>clonotype7117_consensus_1: Could not find Primer Overlap that worked
+>clonotype7124_consensus_1: Could not find Primer Overlap that worked
+>clonotype7137_consensus_1: Could not find Primer Overlap that worked
+>clonotype7139_consensus_1: Could not find Primer Overlap that worked
+>clonotype7142_consensus_1: Could not find Primer Overlap that worked
+>clonotype7176_consensus_2: Could not find Primer Overlap that worked
+>clonotype7196_consensus_1: Could not find Primer Overlap that worked
+>clonotype7197_consensus_1: Could not find Primer Overlap that worked
+>clonotype7219_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7224_consensus_1: Could not find Primer Overlap that worked
+>clonotype7225_consensus_1: Could not find Primer Overlap that worked
+>clonotype7228_consensus_1: Could not find Primer Overlap that worked
+>clonotype7233_consensus_1: Could not find Primer Overlap that worked
+>clonotype7238_consensus_1: Could not find Primer Overlap that worked
+>clonotype7256_consensus_1: Could not find Primer Overlap that worked
+>clonotype7263_consensus_1: Could not find Primer Overlap that worked
+>clonotype7271_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7279_consensus_1: Could not find Primer Overlap that worked
+>clonotype7294_consensus_2: Could not find Primer Overlap that worked
+>clonotype7296_consensus_1: Could not find Primer Overlap that worked
+>clonotype7306_consensus_1: Could not find Primer Overlap that worked
+>clonotype7312_consensus_2: Could not find Primer Overlap that worked
+>clonotype7341_consensus_1: Could not find Primer Overlap that worked
+>clonotype7398_consensus_1: Could not find Primer Overlap that worked
+>clonotype7402_consensus_1: Could not find Primer Overlap that worked
+>clonotype7404_consensus_1: Could not find Primer Overlap that worked
+>clonotype7405_consensus_1: Could not find Primer Overlap that worked
+>clonotype7406_consensus_1: Could not find Primer Overlap that worked
+>clonotype7407_consensus_1: Could not find Primer Overlap that worked
+>clonotype7408_consensus_1: Could not find Primer Overlap that worked
+>clonotype7409_consensus_1: Could not find Primer Overlap that worked
+>clonotype7411_consensus_1: Could not find Primer Overlap that worked
+>clonotype7416_consensus_1: Could not find Primer Overlap that worked
+>clonotype7421_consensus_1: Could not find Primer Overlap that worked
+>clonotype7422_consensus_1: Could not find Primer Overlap that worked
+>clonotype7425_consensus_1: Could not find Primer Overlap that worked
+>clonotype7441_consensus_1: Could not find Primer Overlap that worked
+>clonotype7457_consensus_1: Could not find Primer Overlap that worked
+>clonotype7463_consensus_1: Could not find Primer Overlap that worked
+>clonotype7466_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7480_consensus_1: Could not find Primer Overlap that worked
+>clonotype7481_consensus_1: Could not find Primer Overlap that worked
+>clonotype7482_consensus_1: Could not find Primer Overlap that worked
+>clonotype7483_consensus_1: Could not find Primer Overlap that worked
+>clonotype7484_consensus_1: Could not find Primer Overlap that worked
+>clonotype7485_consensus_1: Could not find Primer Overlap that worked
+>clonotype7508_consensus_1: Could not find Primer Overlap that worked
+>clonotype7512_consensus_1: Could not find Primer Overlap that worked
+>clonotype7514_consensus_1: Could not find Primer Overlap that worked
+>clonotype7520_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype7550_consensus_1: Could not find Primer Overlap that worked
+>clonotype7553_consensus_1: Could not find Primer Overlap that worked
+>clonotype7566_consensus_1: Could not find Primer Overlap that worked
+>clonotype7570_consensus_1: Could not find Primer Overlap that worked
+>clonotype7578_consensus_1: Could not find Primer Overlap that worked
+>clonotype7608_consensus_1: Could not find Primer Overlap that worked
+>clonotype7620_consensus_1: Could not find Primer Overlap that worked
+>clonotype7624_consensus_1: Could not find Primer Overlap that worked
+>clonotype7630_consensus_1: Could not find Primer Overlap that worked
+>clonotype7631_consensus_1: Could not find Primer Overlap that worked
+>clonotype7632_consensus_1: Could not find Primer Overlap that worked
+>clonotype7645_consensus_1: Could not find Primer Overlap that worked
+>clonotype7650_consensus_1: Could not find Primer Overlap that worked
+>clonotype7653_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7658_consensus_1: Could not find Primer Overlap that worked
+>clonotype7663_consensus_1: Could not find Primer Overlap that worked
+>clonotype7676_consensus_2: Could not find Primer Overlap that worked
+>clonotype7682_consensus_1: Could not find Primer Overlap that worked
+>clonotype7692_consensus_1: Could not find Primer Overlap that worked
+>clonotype7694_consensus_1: Could not find Primer Overlap that worked
+>clonotype7697_consensus_1: Could not find Primer Overlap that worked
+>clonotype7698_consensus_1: Could not find Primer Overlap that worked
+>clonotype7703_consensus_1: Could not find Primer Overlap that worked
+>clonotype7707_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7709_consensus_1: Could not find Primer Overlap that worked
+>clonotype7724_consensus_1: Could not find Primer Overlap that worked
+>clonotype7729_consensus_1: Could not find Primer Overlap that worked
+>clonotype7730_consensus_1: Could not find Primer Overlap that worked
+>clonotype7736_consensus_1: Could not find Primer Overlap that worked
+>clonotype7751_consensus_1: Could not find Primer Overlap that worked
+>clonotype7760_consensus_1: Could not find Primer Overlap that worked
+>clonotype7764_consensus_1: Could not find Primer Overlap that worked
+>clonotype7770_consensus_1: Could not find Primer Overlap that worked
+>clonotype7771_consensus_1: Could not find Primer Overlap that worked
+>clonotype7776_consensus_1: Could not find Primer Overlap that worked
+>clonotype7778_consensus_1: Could not find Primer Overlap that worked
+>clonotype7787_consensus_1: Could not find Primer Overlap that worked
+>clonotype7793_consensus_2: Could not find Primer Overlap that worked
+>clonotype7795_consensus_1: Could not find Primer Overlap that worked
+>clonotype7801_consensus_2: Could not find Primer Overlap that worked
+>clonotype7805_consensus_1: Could not find Primer Overlap that worked
+>clonotype7806_consensus_1: Could not find Primer Overlap that worked
+>clonotype7822_consensus_1: Could not find Primer Overlap that worked
+>clonotype7830_consensus_1: Could not find Primer Overlap that worked
+>clonotype7835_consensus_1: Could not find Primer Overlap that worked
+>clonotype7835_consensus_2: Could not find Primer Overlap that worked
+>clonotype7836_consensus_1: Could not find Primer Overlap that worked
+>clonotype7849_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7858_consensus_1: Could not find Primer Overlap that worked
+>clonotype7858_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7866_consensus_2: Could not find Primer Overlap that worked
+>clonotype7871_consensus_1: Could not find Primer Overlap that worked
+>clonotype7873_consensus_1: Could not find Primer Overlap that worked
+>clonotype7879_consensus_1: Could not find Primer Overlap that worked
+>clonotype7880_consensus_1: Could not find Primer Overlap that worked
+>clonotype7881_consensus_1: Could not find Primer Overlap that worked
+>clonotype7882_consensus_1: Could not find Primer Overlap that worked
+>clonotype7888_consensus_1: Could not find Primer Overlap that worked
+>clonotype7893_consensus_1: Could not find Primer Overlap that worked
+>clonotype7901_consensus_1: Could not find Primer Overlap that worked
+>clonotype7902_consensus_1: Could not find Primer Overlap that worked
+>clonotype7903_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype7909_consensus_1: Could not find Primer Overlap that worked
+>clonotype7910_consensus_2: Could not find Primer Overlap that worked
+>clonotype7911_consensus_1: Could not find Primer Overlap that worked
+>clonotype7913_consensus_1: Could not find Primer Overlap that worked
+>clonotype7920_consensus_1: Could not find Primer Overlap that worked
+>clonotype7921_consensus_1: Could not find Primer Overlap that worked
+>clonotype7922_consensus_1: Could not find Primer Overlap that worked
+>clonotype7926_consensus_1: Could not find Primer Overlap that worked
+>clonotype7929_consensus_1: Could not find Primer Overlap that worked
+>clonotype7931_consensus_1: Could not find Primer Overlap that worked
+>clonotype7932_consensus_1: Could not find Primer Overlap that worked
+>clonotype7934_consensus_1: Could not find Primer Overlap that worked
+>clonotype7936_consensus_1: Could not find Primer Overlap that worked
+>clonotype7937_consensus_1: Could not find Primer Overlap that worked
+>clonotype7939_consensus_1: Could not find Primer Overlap that worked
+>clonotype7941_consensus_1: Could not find Primer Overlap that worked
+>clonotype7947_consensus_1: Could not find Primer Overlap that worked
+>clonotype7947_consensus_2: Could not find Primer Overlap that worked
+>clonotype7949_consensus_1: Could not find Primer Overlap that worked
+>clonotype7950_consensus_1: Could not find Primer Overlap that worked
+>clonotype7951_consensus_1: Could not find Primer Overlap that worked
+>clonotype7957_consensus_1: Could not find Primer Overlap that worked
+>clonotype7960_consensus_1: Could not find Primer Overlap that worked
+>clonotype7968_consensus_1: Could not find Primer Overlap that worked
+>clonotype7971_consensus_1: Could not find Primer Overlap that worked
+>clonotype7976_consensus_1: Could not find Primer Overlap that worked
+>clonotype7999_consensus_1: Could not find Primer Overlap that worked
+>clonotype8001_consensus_2: Could not find Primer Overlap that worked
+>clonotype8016_consensus_1: Could not find Primer Overlap that worked
+>clonotype8018_consensus_1: Could not find Primer Overlap that worked
+>clonotype8020_consensus_1: Could not find Primer Overlap that worked
+>clonotype8029_consensus_1: Could not find Primer Overlap that worked
+>clonotype8031_consensus_1: Could not find Primer Overlap that worked
+>clonotype8032_consensus_1: Could not find Primer Overlap that worked
+>clonotype8038_consensus_1: Could not find Primer Overlap that worked
+>clonotype8039_consensus_1: Could not find Primer Overlap that worked
+>clonotype8041_consensus_1: Could not find Primer Overlap that worked
+>clonotype8044_consensus_1: Could not find Primer Overlap that worked
+>clonotype8070_consensus_1: Could not find Primer Overlap that worked
+>clonotype8074_consensus_1: Could not find Primer Overlap that worked
+>clonotype8081_consensus_1: Could not find Primer Overlap that worked
+>clonotype8085_consensus_1: Could not find Primer Overlap that worked
+>clonotype8097_consensus_1: Could not find Primer Overlap that worked
+>clonotype8098_consensus_1: Could not find Primer Overlap that worked
+>clonotype8099_consensus_1: Could not find Primer Overlap that worked
+>clonotype8109_consensus_1: Could not find Primer Overlap that worked
+>clonotype8154_consensus_1: Could not find Primer Overlap that worked
+>clonotype8156_consensus_1: Could not find Primer Overlap that worked
+>clonotype8177_consensus_1: Could not find Primer Overlap that worked
+>clonotype8187_consensus_1: Could not find Primer Overlap that worked
+>clonotype8189_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8191_consensus_1: Could not find Primer Overlap that worked
+>clonotype8197_consensus_1: Could not find Primer Overlap that worked
+>clonotype8208_consensus_1: Could not find Primer Overlap that worked
+>clonotype8216_consensus_1: Could not find Primer Overlap that worked
+>clonotype8228_consensus_1: Could not find Primer Overlap that worked
+>clonotype8230_consensus_1: Could not find Primer Overlap that worked
+>clonotype8231_consensus_1: Could not find Primer Overlap that worked
+>clonotype8232_consensus_1: Could not find Primer Overlap that worked
+>clonotype8240_consensus_1: Could not find Primer Overlap that worked
+>clonotype8241_consensus_1: Could not find Primer Overlap that worked
+>clonotype8245_consensus_1: Could not find Primer Overlap that worked
+>clonotype8251_consensus_1: Could not find Primer Overlap that worked
+>clonotype8251_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype8256_consensus_1: Could not find Primer Overlap that worked
+>clonotype8260_consensus_2: Could not find Primer Overlap that worked
+>clonotype8266_consensus_1: Could not find Primer Overlap that worked
+>clonotype8283_consensus_1: Could not find Primer Overlap that worked
+>clonotype8292_consensus_1: Could not find Primer Overlap that worked
+>clonotype8309_consensus_1: Could not find Primer Overlap that worked
+>clonotype8314_consensus_1: Could not find Primer Overlap that worked
+>clonotype8319_consensus_1: Could not find Primer Overlap that worked
+>clonotype8320_consensus_1: Could not find Primer Overlap that worked
+>clonotype8330_consensus_1: Could not find Primer Overlap that worked
+>clonotype8339_consensus_1: Could not find Primer Overlap that worked
+>clonotype8342_consensus_1: Could not find Primer Overlap that worked
+>clonotype8344_consensus_1: Could not find Primer Overlap that worked
+>clonotype8347_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8350_consensus_1: Could not find Primer Overlap that worked
+>clonotype8352_consensus_1: Could not find Primer Overlap that worked
+>clonotype8365_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8366_consensus_1: Could not find Primer Overlap that worked
+>clonotype8367_consensus_1: Could not find Primer Overlap that worked
+>clonotype8371_consensus_1: Could not find Primer Overlap that worked
+>clonotype8373_consensus_2: Could not find Primer Overlap that worked
+>clonotype8382_consensus_1: Could not find Primer Overlap that worked
+>clonotype8388_consensus_1: Could not find Primer Overlap that worked
+>clonotype8396_consensus_1: Could not find Primer Overlap that worked
+>clonotype8401_consensus_2: Could not find Primer Overlap that worked
+>clonotype8402_consensus_1: Could not find Primer Overlap that worked
+>clonotype8405_consensus_1: Could not find Primer Overlap that worked
+>clonotype8418_consensus_1: Could not find Primer Overlap that worked
+>clonotype8419_consensus_1: Could not find Primer Overlap that worked
+>clonotype8420_consensus_1: Could not find Primer Overlap that worked
+>clonotype8425_consensus_1: Could not find Primer Overlap that worked
+>clonotype8434_consensus_1: Could not find Primer Overlap that worked
+>clonotype8444_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype8446_consensus_1: Could not find Primer Overlap that worked
+>clonotype8450_consensus_1: Could not find Primer Overlap that worked
+>clonotype8459_consensus_1: Could not find Primer Overlap that worked
+>clonotype8463_consensus_1: Could not find Primer Overlap that worked
+>clonotype8465_consensus_1: Could not find Primer Overlap that worked
+>clonotype8471_consensus_1: Could not find Primer Overlap that worked
+>clonotype8482_consensus_1: Could not find Primer Overlap that worked
+>clonotype8486_consensus_1: Could not find Primer Overlap that worked
+>clonotype8492_consensus_1: Could not find Primer Overlap that worked
+>clonotype8493_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8494_consensus_1: Could not find Primer Overlap that worked
+>clonotype8503_consensus_1: Could not find Primer Overlap that worked
+>clonotype8508_consensus_1: Could not find Primer Overlap that worked
+>clonotype8526_consensus_1: Could not find Primer Overlap that worked
+>clonotype8537_consensus_1: Could not find Primer Overlap that worked
+>clonotype8543_consensus_1: Could not find Primer Overlap that worked
+>clonotype8547_consensus_1: Could not find Primer Overlap that worked
+>clonotype8555_consensus_1: Could not find Primer Overlap that worked
+>clonotype8556_consensus_1: Could not find Primer Overlap that worked
+>clonotype8567_consensus_1: Could not find Primer Overlap that worked
+>clonotype8570_consensus_1: Could not find Primer Overlap that worked
+>clonotype8601_consensus_1: Could not find Primer Overlap that worked
+>clonotype8602_consensus_1: Could not find Primer Overlap that worked
+>clonotype8607_consensus_1: Could not find Primer Overlap that worked
+>clonotype8610_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8616_consensus_1: Could not find Primer Overlap that worked
+>clonotype8616_consensus_2: Could not find Primer Overlap that worked
+>clonotype8619_consensus_1: Could not find Primer Overlap that worked
+>clonotype8624_consensus_1: Could not find Primer Overlap that worked
+>clonotype8627_consensus_1: Could not find Primer Overlap that worked
+>clonotype8631_consensus_1: Could not find Primer Overlap that worked
+>clonotype8634_consensus_2: Could not find Primer Overlap that worked
+>clonotype8640_consensus_1: Could not find Primer Overlap that worked
+>clonotype8643_consensus_1: Could not find Primer Overlap that worked
+>clonotype8650_consensus_1: Could not find Primer Overlap that worked
+>clonotype8652_consensus_1: Could not find Primer Overlap that worked
+>clonotype8665_consensus_1: Could not find Primer Overlap that worked
+>clonotype8667_consensus_1: Could not find Primer Overlap that worked
+>clonotype8668_consensus_3: Could not find TRBV Overlap Primer that worked
+>clonotype8683_consensus_1: Could not find Primer Overlap that worked
+>clonotype8686_consensus_1: Could not find Primer Overlap that worked
+>clonotype8697_consensus_1: Could not find Primer Overlap that worked
+>clonotype8698_consensus_1: Could not find Primer Overlap that worked
+>clonotype8703_consensus_1: Could not find Primer Overlap that worked
+>clonotype8703_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8707_consensus_1: Could not find Primer Overlap that worked
+>clonotype8709_consensus_1: Could not find Primer Overlap that worked
+>clonotype8711_consensus_1: Could not find Primer Overlap that worked
+>clonotype8714_consensus_1: Could not find Primer Overlap that worked
+>clonotype8715_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8720_consensus_1: Could not find Primer Overlap that worked
+>clonotype8723_consensus_1: Could not find Primer Overlap that worked
+>clonotype8725_consensus_1: Could not find Primer Overlap that worked
+>clonotype8736_consensus_1: Could not find Primer Overlap that worked
+>clonotype8739_consensus_1: Could not find Primer Overlap that worked
+>clonotype8744_consensus_1: Could not find Primer Overlap that worked
+>clonotype8745_consensus_1: Could not find Primer Overlap that worked
+>clonotype8769_consensus_1: Could not find Primer Overlap that worked
+>clonotype8772_consensus_1: Could not find Primer Overlap that worked
+>clonotype8776_consensus_1: Could not find Primer Overlap that worked
+>clonotype8781_consensus_1: Could not find Primer Overlap that worked
+>clonotype8782_consensus_1: Could not find Primer Overlap that worked
+>clonotype8784_consensus_1: Could not find Primer Overlap that worked
+>clonotype8791_consensus_1: Could not find Primer Overlap that worked
+>clonotype8794_consensus_1: Could not find Primer Overlap that worked
+>clonotype8795_consensus_1: Could not find Primer Overlap that worked
+>clonotype8799_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype8803_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8804_consensus_1: Could not find Primer Overlap that worked
+>clonotype8807_consensus_1: Could not find Primer Overlap that worked
+>clonotype8825_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype8827_consensus_1: Could not find Primer Overlap that worked
+>clonotype8838_consensus_1: Could not find Primer Overlap that worked
+>clonotype8839_consensus_1: Could not find Primer Overlap that worked
+>clonotype8843_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype8844_consensus_1: Could not find Primer Overlap that worked
+>clonotype8845_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype8870_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype8879_consensus_1: Could not find Primer Overlap that worked
+>clonotype8892_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype8936_consensus_1: Could not find Primer Overlap that worked
+>clonotype8958_consensus_1: Could not find Primer Overlap that worked
+>clonotype8968_consensus_1: Could not find Primer Overlap that worked
+>clonotype8986_consensus_1: Could not find Primer Overlap that worked
+>clonotype9008_consensus_2: Could not find Primer Overlap that worked
+>clonotype9076_consensus_1: Could not find Primer Overlap that worked
+>clonotype9106_consensus_1: Could not find TRBV Overlap Primer that worked
+>clonotype9135_consensus_1: Could not find Primer Overlap that worked
+>clonotype9178_consensus_2: Could not find Primer Overlap that worked
+>clonotype9182_consensus_1: Could not find Primer Overlap that worked
+>clonotype9229_consensus_1: Could not find Primer Overlap that worked
+>clonotype9236_consensus_1: Could not find Primer Overlap that worked
+>clonotype9246_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype9276_consensus_1: Could not find Primer Overlap that worked
+>clonotype9285_consensus_1: Could not find Primer Overlap that worked
+>clonotype9308_consensus_1: Could not find Primer Overlap that worked
+>clonotype9322_consensus_1: Could not find Primer Overlap that worked
+>clonotype9325_consensus_1: Could not find Primer Overlap that worked
+>clonotype9327_consensus_1: Could not find Primer Overlap that worked
+>clonotype9334_consensus_1: Could not find Primer Overlap that worked
+>clonotype9347_consensus_2: Could not find Primer Overlap that worked
+>clonotype9370_consensus_1: Could not find Primer Overlap that worked
+>clonotype9387_consensus_1: Could not find Primer Overlap that worked
+>clonotype9393_consensus_1: Could not find Primer Overlap that worked
+>clonotype9410_consensus_1: Could not find Primer Overlap that worked
+>clonotype9411_consensus_1: Could not find Primer Overlap that worked
+>clonotype9430_consensus_1: Could not find Primer Overlap that worked
+>clonotype9443_consensus_1: Could not find Primer Overlap that worked
+>clonotype9469_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype9489_consensus_1: Could not find Primer Overlap that worked
+>clonotype9490_consensus_1: Could not find Primer Overlap that worked
+>clonotype9526_consensus_1: Could not find Primer Overlap that worked
+>clonotype9559_consensus_1: Could not find Primer Overlap that worked
+>clonotype9567_consensus_1: Could not find Primer Overlap that worked
+>clonotype9575_consensus_1: Could not find Primer Overlap that worked
+>clonotype9598_consensus_1: Could not find Primer Overlap that worked
+>clonotype9602_consensus_1: Could not find Primer Overlap that worked
+>clonotype9606_consensus_1: Could not find Primer Overlap that worked
+>clonotype9628_consensus_1: Could not find Primer Overlap that worked
+>clonotype9631_consensus_1: Could not find TRBV Sequence that worked
+>clonotype9635_consensus_1: Could not find Primer Overlap that worked
+>clonotype9639_consensus_1: Could not find Primer Overlap that worked
+>clonotype9656_consensus_1: Could not find Primer Overlap that worked
+>clonotype9658_consensus_1: Could not find Primer Overlap that worked
+>clonotype9669_consensus_1: Could not find Primer Overlap that worked
+>clonotype9673_consensus_1: Could not find Primer Overlap that worked
+>clonotype9681_consensus_1: Could not find Primer Overlap that worked
+>clonotype9682_consensus_2: Could not find Primer Overlap that worked
+>clonotype9702_consensus_1: Could not find Primer Overlap that worked
+>clonotype9722_consensus_1: Could not find Primer Overlap that worked
+>clonotype9728_consensus_1: Could not find Primer Overlap that worked
+>clonotype9739_consensus_1: Could not find Primer Overlap that worked
+>clonotype9742_consensus_2: Could not find Primer Overlap that worked
+>clonotype9750_consensus_1: Could not find Primer Overlap that worked
+>clonotype9756_consensus_1: Could not find Primer Overlap that worked
+>clonotype9769_consensus_1: Could not find Primer Overlap that worked
+>clonotype9771_consensus_1: Could not find Primer Overlap that worked
+>clonotype9781_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype9784_consensus_1: Could not find Primer Overlap that worked
+>clonotype9793_consensus_1: Could not find Primer Overlap that worked
+>clonotype9796_consensus_1: Could not find Primer Overlap that worked
+>clonotype9797_consensus_1: Could not find Primer Overlap that worked
+>clonotype9806_consensus_1: Could not find Primer Overlap that worked
+>clonotype9807_consensus_1: Could not find Primer Overlap that worked
+>clonotype9813_consensus_1: Could not find Primer Overlap that worked
+>clonotype9829_consensus_1: Could not find Primer Overlap that worked
+>clonotype9835_consensus_1: Could not find Primer Overlap that worked
+>clonotype9848_consensus_1: Could not find Primer Overlap that worked
+>clonotype9854_consensus_1: Could not find Primer Overlap that worked
+>clonotype9855_consensus_1: Could not find Primer Overlap that worked
+>clonotype9861_consensus_1: Could not find Primer Overlap that worked
+>clonotype9877_consensus_1: Could not find Primer Overlap that worked
+>clonotype9879_consensus_1: Could not find Primer Overlap that worked
+>clonotype9888_consensus_1: Could not find Primer Overlap that worked
+>clonotype9901_consensus_1: Could not find Primer Overlap that worked
+>clonotype9908_consensus_2: Could not find TRBV Overlap Primer that worked
+>clonotype9917_consensus_1: Could not find Primer Overlap that worked
+>clonotype9919_consensus_1: Could not find Primer Overlap that worked
+>clonotype9921_consensus_1: Could not find Primer Overlap that worked
+>clonotype9923_consensus_1: Could not find Primer Overlap that worked
+>clonotype9935_consensus_1: Could not find Primer Overlap that worked
+>clonotype9937_consensus_1: Could not find Primer Overlap that worked
+>clonotype9939_consensus_1: Could not find Primer Overlap that worked
+>clonotype9944_consensus_1: Could not find Primer Overlap that worked
+>clonotype9947_consensus_1: Could not find Primer Overlap that worked
+>clonotype9948_consensus_1: Could not find Primer Overlap that worked
+>clonotype9952_consensus_1: Could not find Primer Overlap that worked
+>clonotype9954_consensus_1: Could not find Primer Overlap that worked
+>clonotype9955_consensus_1: Could not find Primer Overlap that worked
+>clonotype9961_consensus_1: Could not find Primer Overlap that worked
+>clonotype9963_consensus_1: Could not find Primer Overlap that worked
+>clonotype451_consensus_1: Could not find TRBC
+>clonotype834_consensus_1: Could not find TRBC
+>clonotype1462_consensus_2: Could not find TRBC
+>clonotype1775_consensus_2: Could not find TRBC
+>clonotype3345_consensus_1: Could not find TRBC
+>clonotype3706_consensus_1: Could not find TRBC
+>clonotype3779_consensus_2: Could not find TRBC
+>clonotype4132_consensus_1: Could not find TRBC
+>clonotype4260_consensus_1: Could not find TRBC
+>clonotype4404_consensus_1: Could not find TRBC
+>clonotype4457_consensus_1: Could not find TRBC
+>clonotype4462_consensus_1: Could not find TRBC
+>clonotype4658_consensus_1: Could not find TRBC
+>clonotype4692_consensus_1: Could not find TRBC
+>clonotype4888_consensus_1: Could not find TRBC
+>clonotype4951_consensus_1: Could not find TRBC
+>clonotype4963_consensus_1: Could not find TRBC
+>clonotype5077_consensus_1: Could not find TRBC
+>clonotype5082_consensus_1: Could not find TRBC
+>clonotype5083_consensus_1: Could not find TRBC
+>clonotype5282_consensus_1: Could not find TRBC
+>clonotype5357_consensus_1: Could not find TRBC
+>clonotype5408_consensus_1: Could not find TRBC
+>clonotype5484_consensus_1: Could not find TRBC
+>clonotype5512_consensus_1: Could not find TRBC
+>clonotype5513_consensus_1: Could not find TRBC
+>clonotype5585_consensus_2: Could not find TRBC
+>clonotype5923_consensus_1: Could not find TRBC
+>clonotype5986_consensus_1: Could not find TRBC
+>clonotype5991_consensus_1: Could not find TRBC
+>clonotype6316_consensus_1: Could not find TRBC
+>clonotype6364_consensus_1: Could not find TRBC
+>clonotype6365_consensus_1: Could not find TRBC
+>clonotype6430_consensus_2: Could not find TRBC
+>clonotype6476_consensus_1: Could not find TRBC
+>clonotype6619_consensus_1: Could not find TRBC
+>clonotype6628_consensus_1: Could not find TRBC
+>clonotype6787_consensus_1: Could not find TRBC
+>clonotype7144_consensus_1: Could not find TRBC
+>clonotype7307_consensus_1: Could not find TRBC
+>clonotype7633_consensus_1: Could not find TRBC
+>clonotype7646_consensus_1: Could not find TRBC
+>clonotype7733_consensus_1: Could not find TRBC
+>clonotype7887_consensus_1: Could not find TRBC
+>clonotype7890_consensus_1: Could not find TRBC
+>clonotype8002_consensus_1: Could not find TRBC
+>clonotype8030_consensus_1: Could not find TRBC
+>clonotype8069_consensus_1: Could not find TRBC
+>clonotype8195_consensus_1: Could not find TRBC
+>clonotype8453_consensus_1: Could not find TRBC
+>clonotype8539_consensus_1: Could not find TRBC
+>clonotype8564_consensus_1: Could not find TRBC
+>clonotype8642_consensus_1: Could not find TRBC
+>clonotype8645_consensus_1: Could not find TRBC
+>clonotype8688_consensus_1: Could not find TRBC
+>clonotype8743_consensus_1: Could not find TRBC
+>clonotype9042_consensus_1: Could not find TRBC
+>clonotype9459_consensus_1: Could not find TRBC
+>clonotype9477_consensus_1: Could not find TRBC
+>clonotype9592_consensus_1: Could not find TRBC

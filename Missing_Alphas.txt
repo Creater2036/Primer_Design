@@ -1,0 +1,478 @@
+Unable to find working sequences for clonotypes: 
+>clonotype71_consensus_2: Could not find TRAV Primer that worked
+>clonotype120_consensus_3: Could not find TRAV that worked
+>clonotype167_consensus_2: Could not find TRAV Primer that worked
+>clonotype208_consensus_2: Could not find TRAV Primer that worked
+>clonotype217_consensus_2: Could not find TRAV Primer that worked
+>clonotype536_consensus_2: Could not find TRAV Primer that worked
+>clonotype579_consensus_2: Could not find TRAV Primer that worked
+>clonotype670_consensus_2: Could not find TRAV Primer that worked
+>clonotype866_consensus_3: Could not find TRAV Primer that worked
+>clonotype1185_consensus_2: Could not find TRAV Primer that worked
+>clonotype1334_consensus_2: Could not find TRAV Primer that worked
+>clonotype1346_consensus_2: Could not find TRAV Primer that worked
+>clonotype1449_consensus_2: Could not find TRAV Primer that worked
+>clonotype1525_consensus_3: Could not find TRAV Primer that worked
+>clonotype1642_consensus_2: Could not find TRAV Primer that worked
+>clonotype1669_consensus_2: Could not find TRAV Primer that worked
+>clonotype1700_consensus_2: Could not find TRAV Primer that worked
+>clonotype1799_consensus_4: Could not find TRAV Primer that worked
+>clonotype1808_consensus_2: Could not find TRAV that worked
+>clonotype1907_consensus_3: Could not find TRAV Primer that worked
+>clonotype1978_consensus_4: Could not find TRAV Primer that worked
+>clonotype2070_consensus_2: Could not find TRAV Primer that worked
+>clonotype2463_consensus_3: Could not find TRAV Primer that worked
+>clonotype2471_consensus_2: Could not find TRAV Primer that worked
+>clonotype2483_consensus_2: Could not find TRAV Primer that worked
+>clonotype2548_consensus_3: Could not find TRAV Primer that worked
+>clonotype2557_consensus_2: Could not find TRAV that worked
+>clonotype2893_consensus_2: Could not find TRAV Primer that worked
+>clonotype2907_consensus_4: Could not find TRAV Primer that worked
+>clonotype2973_consensus_2: Could not find TRAV Primer that worked
+>clonotype3160_consensus_2: Could not find TRAV Primer that worked
+>clonotype3183_consensus_3: Could not find TRAV Primer that worked
+>clonotype3239_consensus_2: Could not find TRAV Primer that worked
+>clonotype3353_consensus_3: Could not find TRAV Primer that worked
+>clonotype3386_consensus_2: Could not find TRAV Primer that worked
+>clonotype3430_consensus_2: Could not find TRAV Primer that worked
+>clonotype3959_consensus_2: Could not find TRAV Primer that worked
+>clonotype4266_consensus_4: Could not find TRAV Primer that worked
+>clonotype4353_consensus_2: Could not find TRAV Primer that worked
+>clonotype4527_consensus_2: Could not find TRAV Primer that worked
+>clonotype5253_consensus_3: Could not find TRAV Primer that worked
+>clonotype5484_consensus_3: Could not find TRAV Primer that worked
+>clonotype5496_consensus_2: Could not find TRAV Primer that worked
+>clonotype5504_consensus_3: Could not find TRAV Primer that worked
+>clonotype5637_consensus_2: Could not find TRAV Primer that worked
+>clonotype5640_consensus_2: Could not find TRAV Primer that worked
+>clonotype5647_consensus_2: Could not find TRAV Primer that worked
+>clonotype5653_consensus_2: Could not find TRAV Primer that worked
+>clonotype5666_consensus_2: Could not find TRAV Primer that worked
+>clonotype5689_consensus_2: Could not find TRAV Primer that worked
+>clonotype5703_consensus_2: Could not find TRAV Primer that worked
+>clonotype5780_consensus_2: Could not find TRAV Primer that worked
+>clonotype5791_consensus_2: Could not find TRAV Primer that worked
+>clonotype5868_consensus_2: Could not find TRAV Primer that worked
+>clonotype5905_consensus_2: Could not find TRAV Primer that worked
+>clonotype6346_consensus_3: Could not find TRAV that worked
+>clonotype6663_consensus_4: Could not find TRAV Primer that worked
+>clonotype6687_consensus_3: Could not find TRAV Primer that worked
+>clonotype6784_consensus_2: Could not find TRAV Primer that worked
+>clonotype6831_consensus_2: Could not find TRAV Primer that worked
+>clonotype6937_consensus_2: Could not find TRAV Primer that worked
+>clonotype6984_consensus_3: Could not find TRAV Primer that worked
+>clonotype6996_consensus_2: Could not find TRAV Primer that worked
+>clonotype7065_consensus_2: Could not find TRAV Primer that worked
+>clonotype7068_consensus_4: Could not find TRAV Primer that worked
+>clonotype7071_consensus_2: Could not find TRAV Primer that worked
+>clonotype7074_consensus_2: Could not find TRAV Primer that worked
+>clonotype7078_consensus_3: Could not find TRAV Primer that worked
+>clonotype7112_consensus_4: Could not find TRAV Primer that worked
+>clonotype7151_consensus_2: Could not find TRAV Primer that worked
+>clonotype7389_consensus_1: Could not find TRAV Primer that worked
+>clonotype7815_consensus_2: Could not find TRAV Primer that worked
+>clonotype8020_consensus_2: Could not find TRAV Primer that worked
+>clonotype8127_consensus_1: Could not find TRAV Primer that worked
+>clonotype8202_consensus_3: Could not find TRAV Primer that worked
+>clonotype8391_consensus_2: Could not find TRAV Primer that worked
+>clonotype8490_consensus_2: Could not find TRAV Primer that worked
+>clonotype8583_consensus_1: Could not find TRAV Primer that worked
+>clonotype8812_consensus_1: Could not find TRAV Primer that worked
+>clonotype9015_consensus_2: Could not find TRAV Primer that worked
+>clonotype9063_consensus_2: Could not find TRAV Primer that worked
+>clonotype9167_consensus_2: Could not find TRAV Primer that worked
+>clonotype9231_consensus_2: Could not find TRAV Primer that worked
+>clonotype9233_consensus_2: Could not find TRAV Primer that worked
+>clonotype9426_consensus_2: Could not find TRAV Primer that worked
+>clonotype9541_consensus_2: Could not find TRAV Primer that worked
+>clonotype9556_consensus_2: Could not find TRAV Primer that worked
+>clonotype9563_consensus_3: Could not find TRAV Primer that worked
+>clonotype9571_consensus_2: Could not find TRAV Primer that worked
+>clonotype9578_consensus_3: Could not find TRAV Primer that worked
+>clonotype9580_consensus_2: Could not find TRAV that worked
+>clonotype9669_consensus_2: Could not find TRAV Primer that worked
+>clonotype9748_consensus_2: Could not find TRAV Primer that worked
+>clonotype9808_consensus_2: Could not find TRAV Primer that worked
+>clonotype9810_consensus_2: Could not find TRAV Primer that worked
+>clonotype9872_consensus_3: Could not find TRAV Primer that worked
+>clonotype9883_consensus_3: Could not find TRAV that worked
+>clonotype9894_consensus_2: Could not find TRAV Primer that worked
+>clonotype9906_consensus_2: Could not find TRAV Primer that worked
+>clonotype9916_consensus_2: Could not find TRAV Primer that worked
+>clonotype9917_consensus_2: Could not find TRAV Primer that worked
+>clonotype95_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype179_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype217_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype229_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype279_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype348_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype424_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype426_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype494_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype518_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype550_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype605_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype621_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype649_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype725_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype830_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype853_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype871_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype882_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype955_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1007_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1024_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1032_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1043_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype1128_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype1151_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1204_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1233_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1321_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype1473_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1640_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1683_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1725_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1845_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1900_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1912_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype1984_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2091_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2110_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2134_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype2222_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2248_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2253_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2400_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2417_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2418_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2425_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2460_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2465_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2612_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2617_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2619_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2631_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype2674_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype2703_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype2807_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2848_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2893_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2908_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2935_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype2944_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2969_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype2971_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype3017_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3038_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype3056_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3090_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3147_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3156_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype3250_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3354_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3365_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3401_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype3424_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3425_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3444_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype3480_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype3516_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3577_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype3733_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3752_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype3778_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3786_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3804_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3878_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype3971_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3976_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype3993_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4006_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype4019_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype4093_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4117_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4118_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4160_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4225_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4225_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype4238_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4252_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4307_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4353_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4380_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4413_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype4415_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype4446_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4479_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4513_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4649_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4653_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4662_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4946_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4965_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype4997_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5119_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5123_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5161_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5237_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5273_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype5284_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype5406_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5441_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5454_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5490_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5506_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype5509_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5533_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5534_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5542_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype5590_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5600_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5652_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5678_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5697_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5710_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5729_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5797_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5869_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5906_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5924_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5951_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype5984_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6028_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6029_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6076_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype6100_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype6311_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype6353_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6358_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6375_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6384_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6395_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6410_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6560_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6572_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6705_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6723_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6859_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6925_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype6929_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6932_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6978_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6980_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype6983_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7039_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7074_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7078_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7378_consensus_1: Could not find CDR Reverse Primer that worked
+>clonotype7476_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7528_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7611_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7641_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7650_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7683_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7684_consensus_3: Could not find CDR Reverse Primer that worked
+>clonotype7718_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7736_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7742_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7771_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7847_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype7905_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8069_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8097_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8186_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8291_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8325_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8386_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8416_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8466_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8680_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8685_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8723_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8780_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8835_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8836_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype8958_consensus_4: Could not find CDR Reverse Primer that worked
+>clonotype9030_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9078_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9156_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9302_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9590_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9603_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9604_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9700_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9732_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9739_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype9878_consensus_2: Could not find CDR Reverse Primer that worked
+>clonotype102_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype183_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype201_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype530_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype581_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype627_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype628_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype635_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype724_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype789_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype824_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype833_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype847_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype864_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype963_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype1016_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1027_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1068_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1183_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1288_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1289_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1309_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1338_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype1350_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1353_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1355_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1383_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1388_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1526_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1565_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1569_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1587_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1630_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1663_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1696_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1751_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype1803_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype1901_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2033_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2047_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2048_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2050_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2081_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2098_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2108_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2229_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2271_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2354_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2365_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2452_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2480_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2481_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2490_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2502_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2535_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2546_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2553_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2602_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype2822_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype2940_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3062_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3063_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3103_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3124_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3163_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3214_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3221_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3352_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3360_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3442_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3459_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3473_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype3488_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3534_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype3544_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype3545_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype3837_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype3868_consensus_4: Could not find CDRA Forward Outer Primer that worked
+>clonotype3979_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4133_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4140_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4144_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4245_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4272_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4285_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4357_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4369_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4405_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4480_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4583_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4629_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype4632_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype4698_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype4699_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype5181_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5206_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5246_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5284_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype5304_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5358_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5393_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype5418_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5484_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5501_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5651_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype5686_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype5751_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5849_consensus_4: Could not find CDRA Forward Outer Primer that worked
+>clonotype5953_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype5995_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype6002_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6346_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6422_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype6443_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6464_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6469_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6540_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6541_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6542_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype6614_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6648_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6858_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6865_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype6927_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7044_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype7047_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7079_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7118_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype7194_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7233_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7253_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7277_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7319_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype7355_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype7550_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype7592_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype7682_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7687_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7714_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7832_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype7933_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8036_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8040_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8090_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8287_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8290_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8356_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8375_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8439_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8450_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8451_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8463_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8519_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8532_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8728_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8731_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8788_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8854_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype8855_consensus_1: Could not find CDRA Forward Outer Primer that worked
+>clonotype8884_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype8900_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9138_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9202_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9228_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9396_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9403_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9414_consensus_3: Could not find CDRA Forward Outer Primer that worked
+>clonotype9475_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9511_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9817_consensus_2: Could not find CDRA Forward Outer Primer that worked
+>clonotype9818_consensus_2: Could not find CDRA Forward Outer Primer that worked
